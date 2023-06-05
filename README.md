@@ -1,2 +1,2 @@
-# Oil tank detection dissertation repository
+# Automatic detection of Storage Oil tanks using Deep Learning models with Satellite data
 
